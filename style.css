@@ -1,0 +1,57 @@
+.movielist {
+  background-color: rgb(231, 196, 142);
+  display: flex;
+}
+.listitem {
+  background-color: rgb(248, 144, 144);
+  border: 2px solid rgb(196, 39, 39);
+  margin: 15px;
+  border-radius: 10px;
+}
+img {
+  text-align: center;
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 50%;
+  border: 5px solid white;
+}
+header {
+  text-align: center;
+  margin: 25px;
+  background-color: rgb(238, 134, 134);
+  height: 100px;
+  padding-top: 80px;
+  color: rgb(218, 30, 30);
+  font-size: 40px;
+  border: 200px;
+  border-radius: 0 10px 0 10px;
+  border: 5px solid rgb(247, 89, 89);
+  text-shadow: 20px 8px 5px rgb(146, 88, 88);
+}
+p {
+  text-align: center;
+  margin-top: 10px;
+}
+.movielistb {
+  display: flex;
+  background-color: rgb(236, 205, 157);
+}
+.listitemb {
+  background-color: rgb(248, 144, 144);
+  border: 2px solid rgb(196, 39, 39);
+  margin: 10px;
+  border-radius: 10px;
+}
+.movielistc {
+  display: flex;
+  background-color: rgb(236, 205, 157);
+}
+.listitemc {
+  background-color: rgb(248, 144, 144);
+  border: 2px solid rgb(196, 39, 39);
+  margin: 10px;
+  border-radius: 10px;
+}
+body {
+  background-color: rgb(248, 188, 188);
+}
